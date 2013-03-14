@@ -1,0 +1,1017 @@
+[
+    {
+        "name": "Curricula",
+        "children": [
+            {
+                "name": "Courses",
+                "children": [
+                    {
+                        "name": "A+ (American Education Corporation)",
+                        "colour": "#f9f0ab"
+                    },
+                    {
+                        "name": "Apex Learning",
+                        "colour": "#e8e596"
+                    },
+                    {
+                        "name": "Aventa Learning",
+                        "colour": "#f0e2a3"
+                    },
+                    {
+                        "name": "Compass Learning",
+                        "colour": "#ede487"
+                    },
+                    {
+                        "name": "e2020 (Education2020)",
+                        "colour": "#efd580"
+                    },
+                    {
+                        "name": "Giant Campus",
+                        "colour": "#f1cb82"
+                    },
+                    {
+                        "name": "iReady",
+                        "colour": "#f1c298"
+                    },
+                    {
+                        "name": "NovaNet",
+                        "colour": "#e8b598"
+                    },
+                    {
+                        "name": "HippoCampus (NROC)",
+                        "colour": "#d5dda1"
+                    },
+                    {
+                        "name": "OdysseyWare",
+                        "colour": "#c9d2b5"
+                    },
+                    {
+                        "name": "PLATO Learning",
+                        "colour": "#aec1ad"
+                    },
+                    {
+                        "name": "Riverdeep",
+                        "colour": "#a7b8a8"
+                    },
+                    {
+                        "name": "SuccessMaker",
+                        "colour": "#b49a3d"
+                    },
+                    {
+                        "name": "The American Academy",
+                        "colour": "#b28647"
+                    },
+                    {
+                        "name": "ThinkWell",
+                        "colour": "#a97d32"
+                    }
+                ]
+            },
+            {
+                "name": "Digital Textbooks",
+                "children": [
+                    {
+                        "name": "CK12 Flexbooks",
+                        "colour": "#b68334"
+                    },
+                    {
+                        "name": "Boundless",
+                        "colour": "#d6a680"
+                    }
+                ]
+            },
+            {
+                "name": "Games",
+                "children": [
+                    {
+                        "name": "360Ed",
+                        "colour": "#dfad70"
+                    },
+                    {
+                        "name": "BrainNook",
+                        "colour": "#a2765d"
+                    },
+                    {
+                        "name": "CarrotSticks",
+                        "colour": "#9f6652"
+                    },
+                    {
+                        "name": "DimensionU",
+                        "colour": "#b9763f"
+                    },
+                    {
+                        "name": "GameSpark",
+                        "colour": "#bf6e5d"
+                    },
+                    {
+                        "name": "Mangahigh",
+                        "colour": "#af643c"
+                    },
+                    {
+                        "name": "Quizlet",
+                        "colour": "#9b4c3f"
+                    },
+                    {
+                        "name": "Sokikom",
+                        "colour": "#72659d"
+                    },
+                    {
+                        "name": "Woogi Academy",
+                        "colour": "#8a6e9e"
+                    }
+                ]
+            },
+            {
+                "name": "Inventions / Core",
+                "children": [
+                    {
+                        "name": "Achieve 3000",
+                        "colour": "#8f5c85"
+                    },
+                    {
+                        "name": "AdaptedMind",
+                        "colour": "#934b8b"
+                    },
+                    {
+                        "name": "Adaptive Curriculum",
+                        "colour": "#9d4e87"
+                    },
+                    {
+                        "name": "Agile Mind",
+                        "colour": "#92538c"
+                    },
+                    {
+                        "name": "ALEKS",
+                        "colour": "#8b6397"
+                    },
+                    {
+                        "name": "Apangea Learning",
+                        "colour": "#716084"
+                    },
+                    {
+                        "name": "Big Universe",
+                        "colour": "#2e6093"
+                    },
+                    {
+                        "name": "BrainPOP",
+                        "colour": "#3a5988"
+                    },
+                    {
+                        "name": "Brighstorm",
+                        "colour": "#4a5072"
+                    },
+                    {
+                        "name": "Brittanica Digital Learning",
+                        "colour": "#393e64"
+                    },
+                    {
+                        "name": "BuzzMath",
+                        "colour": "#aaa1cc"
+                    },
+                    {
+                        "name": "Carniege Learning",
+                        "colour": "#e0b5c9"
+                    },
+                    {
+                        "name": "Class.com",
+                        "colour": "#e098b0"
+                    },
+                    {
+                        "name": "Conceptua MATH",
+                        "colour": "#ee82a2"
+                    },
+                    {
+                        "name": "Curriculum Associates",
+                        "colour": "#ef91ac"
+                    },
+                    {
+                        "name": "Destination Math/Reading",
+                        "colour": "#eda994"
+                    },
+                    {
+                        "name": "DreamBox Learning",
+                        "colour": "#eeb798"
+                    },
+                    {
+                        "name": "ExploreLearning",
+                        "colour": "#ecc099"
+                    },
+                    {
+                        "name": "Fast ForWord Reading Program",
+                        "colour": "#f6d5aa"
+                    },
+                    {
+                        "name": "FASTT Math",
+                        "colour": "#f0d48a"
+                    },
+                    {
+                        "name": "Guranteach",
+                        "colour": "#efd95f"
+                    },
+                    {
+                        "name": "HeadSprout",
+                        "colour": "#eee469"
+                    },
+                    {
+                        "name": "HeyMath!",
+                        "colour": "#dbdc7f"
+                    },
+                    {
+                        "name": "I CAN LEARN Education Systems",
+                        "colour": "#dfd961"
+                    },
+                    {
+                        "name": "Imagine Learning",
+                        "colour": "#ebe378"
+                    },
+                    {
+                        "name": "istation",
+                        "colour": "#f5e351"
+                    },
+                    {
+                        "name": "iXL Math",
+                        "colour": "#f9f0ab"
+                    },
+                    {
+                        "name": "Khan Academy",
+                        "colour": "#e8e596"
+                    },
+                    {
+                        "name": "Learning A to Z",
+                        "colour": "#f0e2a3"
+                    },
+                    {
+                        "name": "Lexia Learning",
+                        "colour": "#ede487"
+                    },
+                    {
+                        "name": "Mathscore.com",
+                        "colour": "#efd580"
+                    },
+                    {
+                        "name": "MIND Research Institute",
+                        "colour": "#f1cb82"
+                    },
+                    {
+                        "name": "Moving with Math",
+                        "colour": "#f1c298"
+                    },
+                    {
+                        "name": "Read 180",
+                        "colour": "#e8b598"
+                    },
+                    {
+                        "name": "Reasoning Mind",
+                        "colour": "#d5dda1"
+                    },
+                    {
+                        "name": "School of One",
+                        "colour": "#c9d2b5"
+                    },
+                    {
+                        "name": "StudyIsland",
+                        "colour": "#aec1ad"
+                    },
+                    {
+                        "name": "Success For All",
+                        "colour": "#a7b8a8"
+                    },
+                    {
+                        "name": "Ten Marks",
+                        "colour": "#b49a3d"
+                    },
+                    {
+                        "name": "Time to Know",
+                        "colour": "#b28647"
+                    },
+                    {
+                        "name": "TUNEin to Reading",
+                        "colour": "#a97d32"
+                    },
+                    {
+                        "name": "Waterford Early Learning",
+                        "colour": "#b68334"
+                    },
+                    {
+                        "name": "Wowzers",
+                        "colour": "#d6a680"
+                    }
+                ]
+            },
+            {
+                "name": "Online Instruction",
+                "children": [
+                    {
+                        "name": "Advanced Academics",
+                        "colour": "#dfad70"
+                    },
+                    {
+                        "name": "American Academy",
+                        "colour": "#a2765d"
+                    },
+                    {
+                        "name": "Calvert",
+                        "colour": "#9f6652"
+                    },
+                    {
+                        "name": "Connections Academy",
+                        "colour": "#b9763f"
+                    },
+                    {
+                        "name": "EdisonLearning",
+                        "colour": "#bf6e5d"
+                    },
+                    {
+                        "name": "EPGY Online High School at Stanford",
+                        "colour": "#af643c"
+                    },
+                    {
+                        "name": "Florida Virtual School",
+                        "colour": "#9b4c3f"
+                    },
+                    {
+                        "name": "Insight Schools",
+                        "colour": "#72659d"
+                    },
+                    {
+                        "name": "K12, Inc.",
+                        "colour": "#8a6e9e"
+                    },
+                    {
+                        "name": "Kaplan Virtual Education",
+                        "colour": "#8f5c85"
+                    },
+                    {
+                        "name": "Michigan Virtal",
+                        "colour": "#934b8b"
+                    }
+                ]
+            },
+            {
+                "name": "Specialized / Core",
+                "children": [
+                    {
+                        "name": "CAST",
+                        "colour": "#9d4e87"
+                    },
+                    {
+                        "name": "Discovery",
+                        "colour": "#92538c"
+                    },
+                    {
+                        "name": "Everfi",
+                        "colour": "#8b6397"
+                    },
+                    {
+                        "name": "Learning.com",
+                        "colour": "#716084"
+                    },
+                    {
+                        "name": "Livemocha",
+                        "colour": "#2e6093"
+                    },
+                    {
+                        "name": "Presence Learning",
+                        "colour": "#3a5988"
+                    },
+                    {
+                        "name": "Psychological Software Solutions",
+                        "colour": "#4a5072"
+                    },
+                    {
+                        "name": "Rethink Autism",
+                        "colour": "#393e64"
+                    },
+                    {
+                        "name": "Ripple Effects",
+                        "colour": "#aaa1cc"
+                    },
+                    {
+                        "name": "Rosetta Stone",
+                        "colour": "#e0b5c9"
+                    },
+                    {
+                        "name": "SAS Curriculum Pathways",
+                        "colour": "#e098b0"
+                    },
+                    {
+                        "name": "Voyager Learning",
+                        "colour": "#ee82a2"
+                    }
+                ]
+            },
+            {
+                "name": "Test Prep",
+                "children": [
+                    {
+                        "name": "A-List Education",
+                        "colour": "#ef91ac"
+                    },
+                    {
+                        "name": "Grockit",
+                        "colour": "#eda994"
+                    },
+                    {
+                        "name": "I Need a Pencil",
+                        "colour": "#eeb798"
+                    },
+                    {
+                        "name": "Kaplan",
+                        "colour": "#ecc099"
+                    },
+                    {
+                        "name": "Knewton",
+                        "colour": "#f6d5aa"
+                    },
+                    {
+                        "name": "PrepMe",
+                        "colour": "#f0d48a"
+                    },
+                    {
+                        "name": "Revolution Prep",
+                        "colour": "#efd95f"
+                    },
+                    {
+                        "name": "Shmoop",
+                        "colour": "#eee469"
+                    }
+                ]
+            },
+            {
+                "name": "Tutoring",
+                "children": [
+                    {
+                        "name": "Cramster",
+                        "colour": "#dbdc7f"
+                    },
+                    {
+                        "name": "SMARTHINKING",
+                        "colour": "#dfd961"
+                    },
+                    {
+                        "name": "Tutor.com",
+                        "colour": "#ebe378"
+                    },
+                    {
+                        "name": "Tutor Cloud",
+                        "colour": "#f5e351"
+                    },
+                    {
+                        "name": "TutorVista",
+                        "colour": "#f9f0ab"
+                    },
+                    {
+                        "name": "Virtual Nerd",
+                        "colour": "#e8e596"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Data",
+        "children": [
+            {
+                "name": "Data Warehousing",
+                "children": [
+                    {
+                        "name": "EdSpectrum",
+                        "colour": "#f0e2a3"
+                    },
+                    {
+                        "name": "eScholar",
+                        "colour": "#efd580"
+                    },
+                    {
+                        "name": "lookred",
+                        "colour": "#f1cb82"
+                    },
+                    {
+                        "name": "Schoolnet",
+                        "colour": "#f1c298"
+                    },
+                    {
+                        "name": "Spectrum K-12",
+                        "colour": "#e8b598"
+                    },
+                    {
+                        "name": "TetraData",
+                        "colour": "#d5dda1"
+                    },
+                    {
+                        "name": "Wireless Generation",
+                        "colour": "#c9d2b5"
+                    }
+                ]
+            },
+            {
+                "name": "Reporting Systems",
+                "children": [
+                    {
+                        "name": "DataDirector",
+                        "colour": "#aec1ad"
+                    },
+                    {
+                        "name": "Eduvant",
+                        "colour": "#a7b8a8"
+                    },
+                    {
+                        "name": "Illuminate Education",
+                        "colour": "#b49a3d"
+                    },
+                    {
+                        "name": "SchoolZilla",
+                        "colour": "#b28647"
+                    }
+                ]
+            },
+            {
+                "name": "SIS",
+                "children": [
+                    {
+                        "name": "Aeris SIS",
+                        "colour": "#a97d32"
+                    },
+                    {
+                        "name": "Chancery",
+                        "colour": "#b68334"
+                    },
+                    {
+                        "name": "eSIS (AAL)",
+                        "colour": "#d6a680"
+                    },
+                    {
+                        "name": "Genius SIS",
+                        "colour": "#dfad70"
+                    },
+                    {
+                        "name": "Infinite Campus",
+                        "colour": "#a2765d"
+                    },
+                    {
+                        "name": "Pinnacle (GlobalScholar)",
+                        "colour": "#9f6652"
+                    },
+                    {
+                        "name": "PowerSchool",
+                        "colour": "#b9763f"
+                    },
+                    {
+                        "name": "Spiral Universe",
+                        "colour": "#bf6e5d"
+                    },
+                    {
+                        "name": "Wireless Generation",
+                        "colour": "#af643c"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Talent Management",
+        "children": [
+            {
+                "name": "HR Systems",
+                "children": [
+                    {
+                        "name": "Cornerstone onDemand",
+                        "colour": "#b9763f"
+                    },
+                    {
+                        "name": "Lawson",
+                        "colour": "#bf6e5d"
+                    },
+                    {
+                        "name": "Success Factors",
+                        "colour": "#af643c"
+                    },
+                    {
+                        "name": "Truenorthlogic",
+                        "colour": "#9b4c3f"
+                    }
+                ]
+            },
+            {
+                "name": "PD Systems",
+                "children": [
+                    {
+                        "name": "CaseNEX",
+                        "colour": "#72659d"
+                    },
+                    {
+                        "name": "EDC (Education Development Center)",
+                        "colour": "#8a6e9e"
+                    },
+                    {
+                        "name": "Editure/TeachFirst",
+                        "colour": "#8f5c85"
+                    },
+                    {
+                        "name": "Edthena",
+                        "colour": "#934b8b"
+                    },
+                    {
+                        "name": "Formative Learning",
+                        "colour": "#9d4e87"
+                    },
+                    {
+                        "name": "Knowledge Delivery Systems",
+                        "colour": "#92538c"
+                    },
+                    {
+                        "name": "Learning Forward",
+                        "colour": "#8b6397"
+                    },
+                    {
+                        "name": "My Live PD",
+                        "colour": "#716084"
+                    },
+                    {
+                        "name": "PBS Teacher Line",
+                        "colour": "#2e6093"
+                    },
+                    {
+                        "name": "PD360",
+                        "colour": "#3a5988"
+                    },
+                    {
+                        "name": "Sublime Learning",
+                        "colour": "#4a5072"
+                    },
+                    {
+                        "name": "Teaching Channel",
+                        "colour": "#393e64"
+                    },
+                    {
+                        "name": "Teachscape",
+                        "colour": "#aaa1cc"
+                    },
+                    {
+                        "name": "WestEd",
+                        "colour": "#e0b5c9"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Instructional Systems",
+        "children": [
+            {
+                "name": "Teacher Tools",
+                "children": [
+                    {
+                        "name": "BetterLesson",
+                        "colour": "#e098b0"
+                    },
+                    {
+                        "name": "ClassConnect",
+                        "colour": "#ee82a2"
+                    },
+                    {
+                        "name": "Class Dojo",
+                        "colour": "#ef91ac"
+                    },
+                    {
+                        "name": "Class Parrot",
+                        "colour": "#eda994"
+                    },
+                    {
+                        "name": "Collaborative Learning",
+                        "colour": "#eeb798"
+                    },
+                    {
+                        "name": "Curriki",
+                        "colour": "#ecc099"
+                    },
+                    {
+                        "name": "Defined Learning",
+                        "colour": "#f6d5aa"
+                    },
+                    {
+                        "name": "EdNovo",
+                        "colour": "#f0d48a"
+                    },
+                    {
+                        "name": "Educreations",
+                        "colour": "#efd95f"
+                    },
+                    {
+                        "name": "Engrade",
+                        "colour": "#eee469"
+                    },
+                    {
+                        "name": "Goalbook",
+                        "colour": "#dbdc7f"
+                    },
+                    {
+                        "name": "Innovation Teaching",
+                        "colour": "#dfd961"
+                    },
+                    {
+                        "name": "Kickboard",
+                        "colour": "#ebe378"
+                    },
+                    {
+                        "name": "LearnBoost",
+                        "colour": "#f5e351"
+                    },
+                    {
+                        "name": "LearnZillion",
+                        "colour": "#f9f0ab"
+                    },
+                    {
+                        "name": "Mathalicious",
+                        "colour": "#e8e596"
+                    },
+                    {
+                        "name": "netTrekker",
+                        "colour": "#f0e2a3"
+                    },
+                    {
+                        "name": "Powermylearning.com",
+                        "colour": "#ede487"
+                    },
+                    {
+                        "name": "Remind 101",
+                        "colour": "#efd580"
+                    },
+                    {
+                        "name": "rrripple",
+                        "colour": "#f1cb82"
+                    },
+                    {
+                        "name": "SchoolTown",
+                        "colour": "#f1c298"
+                    },
+                    {
+                        "name": "ShowMyHomework",
+                        "colour": "#e8b598"
+                    },
+                    {
+                        "name": "TeacherPayTeachers",
+                        "colour": "#d5dda1"
+                    },
+                    {
+                        "name": "UBoost",
+                        "colour": "#c9d2b5"
+                    }
+                ]
+            },
+            {
+                "name": "Social Learning",
+                "children": [
+                    {
+                        "name": "Edmodo",
+                        "colour": "#aec1ad"
+                    },
+                    {
+                        "name": "ePals",
+                        "colour": "#a7b8a8"
+                    },
+                    {
+                        "name": "iRemix",
+                        "colour": "#b49a3d"
+                    },
+                    {
+                        "name": "Sophia",
+                        "colour": "#b28647"
+                    },
+                    {
+                        "name": "Schoology",
+                        "colour": "#a97d32"
+                    }
+                ]
+            },
+            {
+                "name": "Learning Management Systems",
+                "children": [
+                    {
+                        "name": "Angel Learning",
+                        "colour": "#b68334"
+                    },
+                    {
+                        "name": "Blackboard",
+                        "colour": "#d6a680"
+                    },
+                    {
+                        "name": "BrainHoney",
+                        "colour": "#dfad70"
+                    },
+                    {
+                        "name": "Desire2Learn",
+                        "colour": "#a2765d"
+                    },
+                    {
+                        "name": "eCollege",
+                        "colour": "#9f6652"
+                    },
+                    {
+                        "name": "Education Elements",
+                        "colour": "#b9763f"
+                    },
+                    {
+                        "name": "HotChalk",
+                        "colour": "#bf6e5d"
+                    },
+                    {
+                        "name": "Instructure",
+                        "colour": "#af643c"
+                    },
+                    {
+                        "name": "Inventive Technology",
+                        "colour": "#9b4c3f"
+                    },
+                    {
+                        "name": "IQity",
+                        "colour": "#72659d"
+                    },
+                    {
+                        "name": "itslearning",
+                        "colour": "#8a6e9e"
+                    },
+                    {
+                        "name": "Moodle",
+                        "colour": "#8f5c85"
+                    },
+                    {
+                        "name": "Moodlerooms",
+                        "colour": "#934b8b"
+                    },
+                    {
+                        "name": "NaMaYa",
+                        "colour": "#9d4e87"
+                    },
+                    {
+                        "name": "Nixty",
+                        "colour": "#92538c"
+                    },
+                    {
+                        "name": "Renzulli Learning",
+                        "colour": "#8b6397"
+                    },
+                    {
+                        "name": "Sky",
+                        "colour": "#716084"
+                    }
+                ]
+            },
+            {
+                "name": "Assesment Systems",
+                "children": [
+                    {
+                        "name": "Accelerated Reader & Math",
+                        "colour": "#2e6093"
+                    },
+                    {
+                        "name": "ActivProgress",
+                        "colour": "#3a5988"
+                    },
+                    {
+                        "name": "Acuity",
+                        "colour": "#4a5072"
+                    },
+                    {
+                        "name": "AIR",
+                        "colour": "#393e64"
+                    },
+                    {
+                        "name": "Assess2Know",
+                        "colour": "#aaa1cc"
+                    },
+                    {
+                        "name": "Children's Progress",
+                        "colour": "#e0b5c9"
+                    },
+                    {
+                        "name": "D2SC",
+                        "colour": "#e098b0"
+                    },
+                    {
+                        "name": "Datawise",
+                        "colour": "#ee82a2"
+                    },
+                    {
+                        "name": "Edmin",
+                        "colour": "#ef91ac"
+                    },
+                    {
+                        "name": "Edusoft",
+                        "colour": "#eda994"
+                    },
+                    {
+                        "name": "EduTest",
+                        "colour": "#eeb798"
+                    },
+                    {
+                        "name": "ETS",
+                        "colour": "#ecc099"
+                    },
+                    {
+                        "name": "ExamView",
+                        "colour": "#f6d5aa"
+                    },
+                    {
+                        "name": "Galileo",
+                        "colour": "#f0d48a"
+                    },
+                    {
+                        "name": "LinkIt!",
+                        "colour": "#efd95f"
+                    },
+                    {
+                        "name": "MAP (NWEA)",
+                        "colour": "#eee469"
+                    },
+                    {
+                        "name": "Mastery Connect",
+                        "colour": "#dbdc7f"
+                    },
+                    {
+                        "name": "Measured Progress",
+                        "colour": "#dfd961"
+                    },
+                    {
+                        "name": "Measurements, Inc.",
+                        "colour": "#ebe378"
+                    },
+                    {
+                        "name": "MetaMetrics"
+                    },
+                    {
+                        "name": "Metria Learning"
+                    },
+                    {
+                        "name": "Plato",
+                        "colour": "#f5e351"
+                    },
+                    {
+                        "name": "Questar",
+                        "colour": "#f9f0ab"
+                    },
+                    {
+                        "name": "Scantron",
+                        "colour": "#e8e596"
+                    },
+                    {
+                        "name": "SchoolCity",
+                        "colour": "#f0e2a3"
+                    },
+                    {
+                        "name": "STEP",
+                        "colour": "#ede487"
+                    },
+                    {
+                        "name": "Socrative",
+                        "colour": "#efd580"
+                    },
+                    {
+                        "name": "Vantage Learning",
+                        "colour": "#f1cb82"
+                    },
+                    {
+                        "name": "Wireless Generation",
+                        "colour": "#f1c298"
+                    }
+                ]
+            },
+            {
+                "name": "Collaboration",
+                "children": [
+                    {
+                        "name": "Elluminate",
+                        "colour": "#e8b598"
+                    },
+                    {
+                        "name": "Gaggle",
+                        "colour": "#d5dda1"
+                    },
+                    {
+                        "name": "Google EDU",
+                        "colour": "#c9d2b5"
+                    },
+                    {
+                        "name": "Microsoft Live@EDU"
+                    },
+                    {
+                        "name": "PrazAs Live!",
+                        "colour": "#aec1ad"
+                    },
+                    {
+                        "name": "School Loop",
+                        "colour": "#a7b8a8"
+                    },
+                    {
+                        "name": "SchoolWires",
+                        "colour": "#b49a3d"
+                    },
+                    {
+                        "name": "Wimba",
+                        "colour": "#b28647"
+                    }
+                ]
+            }
+        ]
+    }
+]
