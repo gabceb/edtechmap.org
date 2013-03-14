@@ -1,27 +1,64 @@
 <!DOCTYPE html>
 <html>
-  <head>
-  	<title>EdTech Map</title>
-    <script src="/vendor/jquery-1.9.1.min.js" type="text/javascript"></script>
-    <script src="/vendor/bootstrap/js/bootstrap.min.js"></script>
-    <link rel="stylesheet" href="/vendor/bootstrap/css/bootstrap.min.css">
-  </head>
-  <body style="padding-top: 50px;">
-    <a href="https://github.com/gabceb/edtechmap.org"><img style="position: absolute; top: 0; right: 0; border: 0; z-index: 99999" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>
-    <div class="navbar navbar-fixed-top">
-      <div class="navbar-inner">
-        <div class="container">
-            <a class="brand" href="/">
-              EdTech Map
-            </a>
-            <ul class="nav">
-              <li><a href="/">Home</a></li>
-            </ul>
-        </div>
+<head>
+ <title>EdTech Map</title>
+ <link rel="stylesheet" href="/css/edtechmap.css">
+ <script src="/vendor/jquery-1.9.1.min.js" type="text/javascript"></script>
+ <script src="/vendor/bootstrap/js/bootstrap.min.js"></script>
+ <link rel="stylesheet" href="/vendor/bootstrap/css/bootstrap.min.css">
+ <link rel="stylesheet" href="/vendor/font-awesome/css/font-awesome.min.css">
+ <!--[if IE 7]>
+  <link rel="stylesheet" href="/vendor/font-awesome/css/font-awesome-ie7.min.css">
+ <![endif]-->
+
+</head>
+<body style="padding-top: 50px;">
+  <a href="https://github.com/gabceb/edtechmap.org"><img style="position: fixed; top: 0; right: 0; border: 0; z-index: 99999" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>
+  <div class="navbar navbar-fixed-top">
+    <div class="navbar-inner">
+      <div class="container">
+        <a class="brand" href="/">
+          EdTech Map
+        </a>
+        <ul class="nav">
+          <li><a href="/">Home</a></li>
+        </ul>
       </div>
     </div>
-  	<div class="container">
-  		<%= yield %>
-  	</div>
-  </body>
+  </div>
+  <div class="container">
+    <%= yield %>
+  </div>
+  <div class="footer">
+    <div class="container">
+      <div class="row">
+
+        <div class="span4">
+         <div class="footer-col-1">
+
+         </div>
+       </div>
+
+       <div class="span4">
+         <div class="footer-col-2">
+          <center>
+            <a href="http://twitter.com/edtechmap" target="_blank"><i class="icon-twitter-sign icon-3x">&nbsp;</i></a>
+            <a href="https://www.facebook.com/edtechmap" target="_blank"><i class="icon-facebook-sign icon-3x">&nbsp;</i></a>
+            <a href="http://github.com/gabceb/edtechmap" target="_blank"><i class="icon-github icon-3x">&nbsp;</i></a>
+            <br>
+            <p>© <%= DateTime.now.year %> EdTechMap. All Rights Reserved</p>
+          </center>
+        </div>
+      </div>
+
+      <div class="span4">
+        <div class="footer-col-1">
+
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+</body>
 </html>
